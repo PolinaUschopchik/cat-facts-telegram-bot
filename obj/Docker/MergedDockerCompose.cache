@@ -1,0 +1,16 @@
+services:
+  bot:
+    build:
+      context: /Users/polina/Documents/telegrambot/bot
+      dockerfile: bot/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: bot
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /Users/polina/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/polina/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

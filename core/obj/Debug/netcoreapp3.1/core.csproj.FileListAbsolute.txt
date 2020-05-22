@@ -1,0 +1,9 @@
+/Users/polina/Documents/telegrambot/bot/core/bin/Debug/netcoreapp3.1/core.deps.json
+/Users/polina/Documents/telegrambot/bot/core/bin/Debug/netcoreapp3.1/core.dll
+/Users/polina/Documents/telegrambot/bot/core/bin/Debug/netcoreapp3.1/core.pdb
+/Users/polina/Documents/telegrambot/bot/core/obj/Debug/netcoreapp3.1/core.csprojAssemblyReference.cache
+/Users/polina/Documents/telegrambot/bot/core/obj/Debug/netcoreapp3.1/core.csproj.CoreCompileInputs.cache
+/Users/polina/Documents/telegrambot/bot/core/obj/Debug/netcoreapp3.1/core.AssemblyInfoInputs.cache
+/Users/polina/Documents/telegrambot/bot/core/obj/Debug/netcoreapp3.1/core.AssemblyInfo.cs
+/Users/polina/Documents/telegrambot/bot/core/obj/Debug/netcoreapp3.1/core.dll
+/Users/polina/Documents/telegrambot/bot/core/obj/Debug/netcoreapp3.1/core.pdb
